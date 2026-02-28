@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/><a href="https://github.com/joshmadakor1">Solutions Architect</a> | <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> 
 
-<h2>👨‍💻 Certifications:</h2>
+<h2>🎓 Certifications:</h2>
 
 * **AWS Certified: Security Specialty**
 * **AWS Certified: Solutions Architect Associate**
