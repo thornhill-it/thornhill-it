@@ -6,7 +6,7 @@
 
 * **AWS Certified: Security Specialty**
 * **AWS Certified: Solutions Architect Associate**
-* **Google Cloud Platform: Professional Cloud Architect**
+* **GCP Certified: Professional Cloud Architect**
 * **HashiCorp Certified: Terraform Associate**
 * **AWS Machine Learning Associate (In Progress)**
 
