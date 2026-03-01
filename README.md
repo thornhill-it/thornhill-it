@@ -10,7 +10,7 @@
 * **HashiCorp Certified: Terraform Associate**
 <br/> <br/>
 * **AWS Machine Learning Associate (In Progress)**
-* **CNCF Certified: Certified Kubernetes Administrator (In Progress)**
+* **Linux Foundation: Certified Kubernetes Administrator (In Progress)**
 
 <h2>🏗️ Projects:</h2>
 
