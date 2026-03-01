@@ -8,7 +8,7 @@
 * **AWS Certified: Solutions Architect Associate**
 * **GCP Certified: Professional Cloud Architect**
 * **HashiCorp Certified: Terraform Associate**
-<br/> In Progress: <br/>
+<br/> <br/>
 * **AWS Machine Learning Associate (In Progress)**
 * **Linux Foundation: Certified Kubernetes Administrator (In Progress)**
 
