@@ -9,6 +9,7 @@
 * **GCP Certified: Professional Cloud Architect**
 * **HashiCorp Certified: Terraform Associate**
 * **AWS Machine Learning Associate (In Progress)**
+* **CNCF Certified: Certified Kubernetes Administrator (In Progress)**
 
 <h2>🏗️ Projects:</h2>
 
@@ -42,7 +43,7 @@
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thornhill-it/thornhill-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
