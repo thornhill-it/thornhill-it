@@ -9,7 +9,7 @@
 * **GCP Certified: Professional Cloud Architect**
 * **HashiCorp Certified: Terraform Associate**
 
-* 
+ 
 * **AWS Machine Learning Associate (In Progress)**
 * **CNCF Certified: Certified Kubernetes Administrator (In Progress)**
 
