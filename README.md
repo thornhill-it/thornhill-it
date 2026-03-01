@@ -1,17 +1,3 @@
-graph LR
-    User((User/Attacker)) -- "Makes S3 Public" --> S3[Amazon S3]
-    S3 -- "API Call" --> CT[AWS CloudTrail]
-    CT -- "Event" --> EB[Amazon EventBridge]
-    EB -- "Trigger" --> Lambda[AWS Lambda: Janitor]
-    Lambda -- "Fixes Config" --> S3
-    Lambda -- "Alerts" --> SNS[Amazon SNS: Email]
-    Lambda -- "Logs" --> CW[CloudWatch Logs]
-
-
-
-
-
-
 <h1>Hello, I'm Mark! 
 <br/> ☁️  <a href="https://github.com/joshmadakor1">Solutions Architect</a> | <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> 
 
