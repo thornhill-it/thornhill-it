@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! 
+<h1>Hello, I'm Mark! 
 <br/> ☁️  <a href="https://github.com/joshmadakor1">Solutions Architect</a> | <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> 
 
 
