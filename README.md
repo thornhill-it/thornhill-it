@@ -6,11 +6,11 @@
 
 * **AWS Certified: Security Specialty**
 * **AWS Certified: Solutions Architect Associate**
+* **AWS Machine Learning Associate**
 * **GCP Certified: Professional Cloud Architect**
 * **HashiCorp Certified: Terraform Associate**
 
 &nbsp;&nbsp;&nbsp;&nbsp;**In Progress:**
-* **AWS Machine Learning Associate**
 * **Linux Foundation: Certified Kubernetes Administrator**
 
 <h2>🛠️ Projects:</h2>
